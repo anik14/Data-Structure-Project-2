@@ -1,0 +1,21 @@
+    
+     ----jGRASP exec: java Driver
+    
+    Polynomial poly is:  -5x^16+9x^15-5x^10-13x^3+4x^2+1x^1
+    Degree of polynomial poly is: 16
+    poly: Coefficient of exponent 3 is: -13
+    poly: Get new Coefficient of exponent 20 is 800
+    poly: After setting new coefficent poly is : +800x^20-5x^16+9x^15-5x^10-13x^3+4x^2+1x^1
+    New Polynomial newPoly is generated with copy constructor is:  +800x^20-5x^16+9x^15-5x^10-13x^3+4x^2+1x^1
+    Polynomial poly1 is :  -5x^5-5x^4-21x^3+4x^2+10x^1
+    Polynomial poly and poly1 is equal: false
+    Polynomial poly and newPoly is equal: true
+    Polynomial poly1 is evalueated for x=2: -372
+    Polynomial poly2 is :  +2x^2+5x^1+1
+    Polynomial poly3 is :  +4x^3+2x^2+1x^1+1
+    Polynomial poly4 (poly2+poly3) is:  +4x^3+4x^2+6x^1+2
+    Polynomial poly5 (poly2-poly3) is:  -4x^3+0x^2+4x^1+0
+    Polynomial poly6 (poly2*poly3) is:  +4x^4+4x^3+5x^2+1
+    
+     ----jGRASP: operation complete.
+    
